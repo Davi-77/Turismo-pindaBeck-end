@@ -1,3 +1,4 @@
-# TurismoPinda-front_end
+# TurismoPinda-back-end
+
 
 pip install -r requirements.txt
